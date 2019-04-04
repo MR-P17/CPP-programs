@@ -1,3 +1,5 @@
+//Given a string find its corresponding bit code for whole string
+//such that each distinct character get unique bit representation. 
 #include<bits/stdc++.h>
 using namespace std;
 struct node
